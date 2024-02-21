@@ -1,0 +1,23 @@
+[33mcommit 4d2c61e0ee1fb694ec307771f7a489a0ee68588e[m[33m ([m[1;36mHEAD -> [m[1;32mRTK[m[33m)[m
+Author: Skorohod Roman <skorohodroman921@gmail.com>
+Date:   Mon Feb 19 23:30:14 2024 +0300
+
+    Только начал, решил в другой раз продолжу. Зависимости установлены
+
+[33mcommit a2a3be931781763f5c6826d000333a0b5b83bc1a[m
+Author: Skorohod Roman <skorohodroman921@gmail.com>
+Date:   Mon Feb 19 23:02:06 2024 +0300
+
+    Первый коммит RTK
+
+[33mcommit 3550addd8ae8245778cbba3ac2b1ec24153909d4[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Skorohod Roman <skorohodroman921@gmail.com>
+Date:   Mon Feb 19 22:26:16 2024 +0300
+
+    ReduxToolkit init
+
+[33mcommit 75b47b1643dd43977308d625615296300f10985c[m
+Author: Skorohod Roman <skorohodroman921@gmail.com>
+Date:   Mon Feb 19 22:21:27 2024 +0300
+
+    First Commit
